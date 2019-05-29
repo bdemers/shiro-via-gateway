@@ -1,6 +1,6 @@
 #
 
-**NOTE:** You will need a development branch from Apache Shiro which supports Bearer Tokens: https://github.com/apache/shiro/pull/129
+**NOTE:** You will need a development branch from Apache Shiro which supports Bearer Tokens: https://github.com/apache/shiro/tree/master
 
 ## Clone the project
 
